@@ -1,0 +1,16 @@
+Database name:- myhmsdb
+
+Admin Login Details:-
+
+username:-Mohith
+password:-Mohith@123
+
+Demo doctor account:-
+
+username:-Dinesh
+password:-dinesh123
+
+Demo patient signin account :-
+
+username:-siva@gmail.com
+password:-siva123
